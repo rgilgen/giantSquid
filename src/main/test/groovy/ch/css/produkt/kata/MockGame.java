@@ -1,4 +1,4 @@
-package groovy.ch.css.produkt.kata;
+package ch.css.produkt.kata;
 
 import ch.css.produkt.kata.Game;
 

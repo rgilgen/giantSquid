@@ -1,6 +1,6 @@
 package ch.css.produkt.kata
 
-import groovy.ch.css.produkt.kata.MockGame
+import ch.css.produkt.kata.MockGame
 import spock.lang.Specification
 
 class BingoWinnerRetrieverTest extends Specification {
